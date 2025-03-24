@@ -1,0 +1,20 @@
+
+    NOM     		PRENOM      	NUM
+
+    PDG    		 PIERRE      	0000
+
+    DG     		 ALAN        	1111
+
+    SECRETAIRE  	CARROL     	 2222
+
+    G.RESS      	IVAN        	3333
+
+    G.T     		KEVIN       	4444
+
+    Ch.T        Paul            5555
+
+    ch.Ana      Peter           6666
+
+    ch.Ant      Jean            7777
+
+    ch.tch      Andre           8888
